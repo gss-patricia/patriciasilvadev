@@ -1,2 +1,2 @@
-# semaphore
-Semaforo em HTML E CSS 
+# My Resume
+My initial resume for study.
